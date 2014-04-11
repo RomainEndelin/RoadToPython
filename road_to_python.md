@@ -2,7 +2,7 @@
 
 This is a long post, with links to very long and dense articles. But if you read it all, I can assure you you will be totally confident with Python, and you're gonna love it!
 
-Please, read at least until [Nice pythonic tricks](#nice-pythonic-tricks).
+Please, read at least from [The basics](#the-basics) until [Nice pythonic tricks](#nice-pythonic-tricks).
 
 ## Summary
 
