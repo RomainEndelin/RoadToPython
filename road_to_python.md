@@ -160,7 +160,9 @@ Don't debug your code using print, you can do much cooler: use python logging fa
 There is also a Python debugger, [PDB](https://docs.python.org/2/library/pdb.html), but so far I have never used it. You may give it a try.
 
 # Opening: Scientific Programming
-Scientific Programming is a huge topic, and it would require a whole document as itself !
+Scientific Programming is a huge topic, and it would require a whole document as itself ! Luckily, this document already exits, and greatly covers the topic: [Python Scientific Lecture Notes](http://scipy-lectures.github.io/).
+
+Here is a little summary:
 
 To begin, use **IPython Notebook** (described above) for coding, it works great for scientific workflow.
 
