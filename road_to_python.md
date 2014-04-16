@@ -154,6 +154,8 @@ When coding, please make the code compatible with both, as explained in [Support
 Many of us have started programming with Java, and the switch to Python isn't always straightforward. As for me, the biggest difference is that in Java *everything is part of an object*, whereas in Python *everything is an object*, but some code can be executed straight from a module (although technically, a module is an object, but nevermind this...).
 I didn't find much documentation, but have a look at this [discussion from StackExchange](http://programmers.stackexchange.com/a/47529).
 
+As a bonus, for a bit of philosophy about *why java is evil*, you may read this great (and quite fun) article: [Execution in the Kingdoms of Nouns](http://steve-yegge.blogspot.sg/2006/03/execution-in-kingdom-of-nouns.html)
+
 ## Debugging
 Don't debug your code using print, you can do much cooler: use python logging facilities. Have a look at this simple [Python Logging Tutorial](https://pingbacks.wordpress.com/2010/12/21/python-logging-tutorial/).
 
