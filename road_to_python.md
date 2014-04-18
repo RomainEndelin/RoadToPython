@@ -65,7 +65,7 @@ Instead, switch to IPython. It just does the same as the standard Python REPL, b
 
 To run a notebook with virtualenv:
 ```
-python -m IPython notebook --pylab=inline
+python -m IPython notebook
 ```
 
 # Getting serious
@@ -166,7 +166,10 @@ Scientific Programming is a huge topic, and it would require a whole document as
 
 Here is a little summary:
 
-To begin, use **IPython Notebook** (described above) for coding, it works great for scientific workflow.
+To begin, use **IPython Notebook** (described above) for coding, it works great for scientific workflow. To make sure you can display plots within your notebook, start it by:
+```
+%matplotlib inline
+```
 
 Then, start with **Numpy**, it grants *vectorial programming* capabilities to python, same as in matlab. For example, you can describe a function like y = 6 * x ** 2 / np.sqrt(x), define x as an interval [min, max], and you'll get y(x).
 
