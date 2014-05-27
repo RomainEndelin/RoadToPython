@@ -142,6 +142,8 @@ These few links are NOT necessary for you to code in Python. But they may help y
 
 **Dynamic Typing:** In case you have to dynamically create a class. It is unusual, but it happens. To do so, you'll play with the very type of classes, named... Type! It is explained in [Improve your Python: Metaclasses and Dynamic Classes with Type](https://www.jeffknupp.com/blog/2013/12/28/improve-your-python-metaclasses-and-dynamic-classes-with-type/).
 
+**Metaprogramming:** In all honesty, I don't know anything about metaclasses and metaprogramming yet, but it looks amazing (and totally esoteric). If you have 3 hours to spend, check [Python 3 metaprogramming](http://pyvideo.org/video/1716/python-3-metaprogramming) from PyVideo.
+
 **Misc.** You may also have fun reading about [Hidden features of Python](http://stackoverflow.com/questions/101268/hidden-features-of-python), from a StackOverflow post. But if you've reached that far in my post, you probably know most of them already ;).
 
 # By the way...
