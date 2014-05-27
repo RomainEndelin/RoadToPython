@@ -123,6 +123,8 @@ None of these tricks are absolutely required for coding in Python. But they grea
 
 **Class methods, static methods and abstract methods:** Have a look at [The definitive guide on how to use static, class or abstract methods in Python](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods). That's all really useful, and be careful not to be confused with Java (the names are same, but the concepts are really different!
 
+**Property and descriptors:** This feature of Python is very little known, and badly documented. Luckily, [Python Descriptors Demystified](http://nbviewer.ipython.org/urls/gist.github.com/ChrisBeaumont/5758381/raw/descriptor_writeup.ipynb) will make it clear for you. You will see, it may be useful sometimes.
+
 **One-liners:** Python is also famous for its one-liners. You don't need to do as good as these [Powerful one-liners](https://wiki.python.org/moin/Powerful%20Python%20One-Liners) (don't even try to understand them if that scares you), but try to use these syntax sugars:
 
 * To easily loop in with iterators, use [List Comprehension](http://www.pythonforbeginners.com/lists/list-comprehensions-in-python/).
