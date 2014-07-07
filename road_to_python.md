@@ -2,7 +2,7 @@
 
 This is a long post, with links to very long and dense articles. But if you read it all, I can assure you you will be totally confident with Python, and you're gonna love it!
 
-Please, read at least from [The basics](#the-basics) until [Nice pythonic tricks](#nice-pythonic-tricks).
+Please, if you want to get started with Python, read at least from [The basics](#the-basics) until [Nice pythonic tricks](#nice-pythonic-tricks).
 
 ## Summary
 
@@ -150,8 +150,8 @@ These few links are NOT necessary for you to code in Python. But they may help y
 
 # By the way...
 ## Python2 vs. Python3
-Well, that's a tricky topic, and quite shameful actually. In one sentence : Python2 isn't compatible with Python3 ! So, do we use Python2.7, or Python3.3 ?
-Well, personally I use Python3 as much as possible. But if your code depends on a lib that does not exist in Python3, and that it is too hard to adapt it, you may switch to Python2.
+Well, that's a tricky topic, and quite so much has been said already. In one sentence : Python2 isn't compatible with Python3! So, do we use Python2.7, or Python3.4?
+Basically, everyone agrees that Python3 is better, but many libs are still running on 2.7... Personally I use Python3 as much as possible. But if your code depends on a lib that does not exist in Python3, and if it is too hard to adapt it, you may switch to Python2.
 
 To easily export Python2 into Python3, use the [2to3 tool](https://docs.python.org/2/library/2to3.html).
 When coding, please make the code compatible with both, as explained in [Supporting Python 2 and 3 without 2to3 conversion](http://python3porting.com/noconv.html).
@@ -168,7 +168,7 @@ Don't debug your code using print, you can do much cooler: use python logging fa
 There is also a Python debugger, [PDB](https://docs.python.org/2/library/pdb.html), but so far I have never used it. You may give it a try.
 
 # Opening: Scientific Programming
-Scientific Programming is a huge topic, and it would require a whole document as itself ! Luckily, this document already exits, and greatly covers the topic: [Python Scientific Lecture Notes](http://scipy-lectures.github.io/).
+Scientific Programming is a huge topic, and it would require a whole document as itself ! Luckily, this document already exists, and greatly covers the topic: [Python Scientific Lecture Notes](http://scipy-lectures.github.io/).
 
 Here is a little summary:
 
