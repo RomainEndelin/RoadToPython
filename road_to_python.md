@@ -86,7 +86,9 @@ The most important is: get a pylinter on your text editor! It will give you warn
 Lines should be cut up to 79 characters. This is really annoying at first, but again it has a good payload. Here are a few tricks: http://docs.python-guide.org/en/latest/writing/style/#line-continuations
 
 ## Discovering and using an external library
-Start with installing the library:
+Python has a great community, and therefore provides thousands of external libraries. If you are looking for something in particular, you can obviously ask to your favorite Search Engine, browse GitHub, or read blogs around for what you are looking for. You can also search directly on [the Python Package Index](https://pypi.python.org/pypi). Finally, a great list of libraries can be found in [Awesome-Python](https://github.com/vinta/awesome-python).
+
+Once you have found what you need, start with installing it:
 ```
 pip install <my_lib>
 ```
